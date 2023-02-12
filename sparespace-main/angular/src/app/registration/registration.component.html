@@ -1,0 +1,53 @@
+<mat-toolbar>
+    <span>Registration</span>
+</mat-toolbar>
+<mat-card class="my-card">
+    <mat-card-content>
+        <form [formGroup]="registerFormGroup" (ngSubmit)="handleRegister()" class="my-form">
+            <mat-form-field class="full-width">
+                <mat-label>First Name</mat-label>
+                <input matInput placeholder="First name" formControlName="firstName" id="firstName" required>
+            </mat-form-field>
+            <mat-form-field class="full-width">
+                <mat-label>Last Name</mat-label>
+                <input matInput placeholder="Last Name" formControlName="lastName" id="lastName" required>
+            </mat-form-field>
+            <mat-form-field class="full-width">
+                <mat-label>Phone Number</mat-label>
+                <input matInput placeholder="phone" formControlName="phone" id="phone" required>
+            </mat-form-field>
+            <mat-form-field class="full-width">
+                <mat-label>Email</mat-label>
+                <input matInput placeholder="Email" formControlName="email" id="email" required>
+            </mat-form-field>
+            <mat-form-field class="full-width">
+                <mat-label>Password</mat-label>
+                <input matInput placeholder="Password" formControlName="password" id="password" required>
+            </mat-form-field>
+            <!-- <section class="example-section">
+                <label class="example-margin">Gender:</label>
+                <mat-radio-group name="gender">
+                    <mat-radio-button class="example-margin" value="after">Male</mat-radio-button>
+                    <mat-radio-button class="example-margin" value="before">Female</mat-radio-button>
+                    <mat-radio-button class="example-margin" value="before">Other</mat-radio-button>
+                </mat-radio-group>
+            </section>
+            <mat-form-field>
+                <mat-label>Date of Birth</mat-label>
+                <input matInput [matDatepicker]="picker" placeholder="Choose a date">
+                <mat-datepicker-toggle matSuffix [for]="picker"></mat-datepicker-toggle>
+                <mat-datepicker #picker></mat-datepicker>
+            </mat-form-field> -->
+        </form>
+    </mat-card-content>
+    <mat-card-actions>
+        <button mat-raised-button type="submit" (click)="handleRegister()" color="primary">REGISTER</button>
+    </mat-card-actions>
+    <!-- <h2> Test for making Users </h2>
+    <div class="user-info" *ngFor="let user of users">
+        <span>{{user.firstName}} </span>
+        <span>{{user.lastName}}, </span>
+        <span>{{user.email}}</span>
+        <span>{{user.password}}</span>
+    </div> -->
+</mat-card>

@@ -1,0 +1,25 @@
+.full {
+    width: 35vw;
+    height: 93vh;
+}
+
+mat-grid-tile {
+    display:block;
+    font-size: smaller;
+    padding-left: 50px !important;
+}
+
+.letters {
+    font-size: large;
+}
+
+ul {
+    text-decoration: underline;
+    color: blue;
+    cursor: pointer;
+}
+
+.mat-dialog-container {
+    padding: 10;
+    margin: 10;
+}

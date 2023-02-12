@@ -1,0 +1,98 @@
+<mat-grid-list cols="10" rowHeight=".35:1">
+
+    <!--filter bar-->
+    <mat-grid-tile colspan="6">
+        <form [formGroup]="filters" (ngSubmit)="onSubmit()" class="my-form">
+            <table>
+                <tr>
+                    <th>Purpose</th>
+                    <th>Price</th>
+                    <th>Location</th>
+                    <th></th>
+                </tr>
+                <tr valign="top">
+                    <td>
+                        <mat-form-field>
+                            <mat-label for="purpose">Choose an option</mat-label>
+                            <mat-select name="purpose" id="purpose" formControlName="purpose">
+                                <mat-option value="res">Study</mat-option>
+                                <mat-option value="comm">Party</mat-option>
+                                <mat-option value="vac">Parking</mat-option>
+                            </mat-select>
+                        </mat-form-field>
+                    </td>
+                    
+                    <td>
+                        <mat-form-field>
+                            <mat-label for="price">$$</mat-label>
+                            <input matInput formControlName="price" type="number" class="form-control" id="price">
+                        </mat-form-field>
+                        
+                    </td>
+                    <td>
+                        <mat-form-field>
+                            <mat-label for="location">12345</mat-label>
+                            <input matInput formControlName="location" type="number" class="form-control" id="location">
+                        </mat-form-field>
+                    </td>
+                    
+                    <td><button mat-raised-button style="height:55px"  type="submit" (click)="onSubmit()">Submit</button></td>
+                </tr>
+            </table>
+            <div style="margin-right: 10px;">
+                <!--<label for="startdate">Start Date </label>
+                <input type="date" class="form-control" id="startdate">
+                <label for="enddate">End Date </label>
+                <input type="date" class="form-control" id="enddate">-->
+                <!--<mat-form-field>
+                    <mat-label>Choose Date Range</mat-label>
+                    <mat-date-range-input [rangePicker]="picker" [formGroup]="dateRange">
+                    <input matStartDate formControlName="start" placeholder="Start Date">
+                    <input matEndDate formControlName="end" placeholder="End Date">
+                    </mat-date-range-input>
+                    <mat-datepicker-toggle matSuffix [for]="picker"></mat-datepicker-toggle>
+                    <mat-date-range-picker #picker></mat-date-range-picker>
+                </mat-form-field>-->
+                <mat-form-field>
+                    <input matInput formControlName="fromTimeSlot" [ngxMatDatetimePicker]="pickerFrom" placeholder="From date & time">  <!--[(ngModel)]="myDatePickerFrom"-->
+                    <mat-datepicker-toggle matSuffix [for]="$any(pickerFrom)"></mat-datepicker-toggle>
+                    <ngx-mat-datetime-picker #pickerFrom [enableMeridian]="true"></ngx-mat-datetime-picker>
+                </mat-form-field>
+                    <mat-form-field>
+                        <input matInput formControlName="toTimeSlot" [ngxMatDatetimePicker]="pickerTo" placeholder="To date & time"> <!--[(ngModel)]="myDatePickerTo"
+                            [min]="myDatePickerFrom"-->
+                        <mat-datepicker-toggle matSuffix [for]="$any(pickerTo)"></mat-datepicker-toggle>
+                        <ngx-mat-datetime-picker #pickerTo [enableMeridian]="true"></ngx-mat-datetime-picker>
+                    </mat-form-field>
+            </div>
+        </form>
+    </mat-grid-tile>
+
+    
+
+    <!--map tile-->
+    <mat-grid-tile colspan="4" rowspan="2"><div class="full column" id="map"></div></mat-grid-tile>
+
+    <!--display table tile-->
+        <mat-grid-tile colspan="6" style="margin-right: 10px">
+            <div style="width: 100%; display: flex; column-gap: 20px;">
+                <mat-card *ngFor="let r of loc; let i = index" style="max-width: 50%; padding:20px; text-align: left">
+                    <mat-card-title >{{r.owneradd1}}</mat-card-title>
+                    <mat-card-subtitle>{{r.owneradd2}}</mat-card-subtitle>
+                        
+                    <mat-card-content>
+                        <p>
+                        ${{price[i]}}/hour
+                        </p>
+                      </mat-card-content>
+                      <mat-card-actions>
+                        <button color="primary" mat-button (click)="openDialog()">RENT</button>
+                    </mat-card-actions>
+                </mat-card>
+            </div>
+            
+    </mat-grid-tile>
+    
+    
+</mat-grid-list>
+

@@ -1,0 +1,19 @@
+<!--<h1 mat-dialog-title>Hi</h1>
+<mat-dialog-content>
+  <p>What's your favorite animal?</p>
+  <p mat-form-field appearance="fill">
+    <label mat-label>Favorite Animal</label>
+  </p>
+</mat-dialog-content>-->
+<div>
+  <h2 style="text-align: center;" mat-dialog-title>Verification</h2>
+
+  <mat-dialog-content>
+      If you are satisfied with your choice, click 'OK!'. If you want to take another look, click 'No Thanks'.
+  </mat-dialog-content>
+
+  <div mat-dialog-actions align="center">
+    <button color="secondary" mat-button (click)="close()">No Thanks</button>
+    <button color="primary" mat-button mat-dialog-close (click)="save()" cdkFocusInitial>OK!</button>
+  </div>
+</div>

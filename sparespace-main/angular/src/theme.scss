@@ -1,0 +1,179 @@
+@import '@angular/material/theming';
+@include mat-core();
+/* For use in src/lib/core/theming/_palette.scss */
+$md-lightprimary: (
+    50 : #eef8f6,
+    100 : #d4ede9,
+    200 : #b7e1db,
+    300 : #9ad5cc,
+    400 : #85ccc1,
+    500 : #6fc3b6,
+    600 : #67bdaf,
+    700 : #5cb5a6,
+    800 : #52ae9e,
+    900 : #40a18e,
+    A100 : #f4fffd,
+    A200 : #c1fff3,
+    A400 : #8effe9,
+    A700 : #74ffe4,
+    contrast: (
+        50 : #000000,
+        100 : #000000,
+        200 : #000000,
+        300 : #000000,
+        400 : #000000,
+        500 : #000000,
+        600 : #000000,
+        700 : #000000,
+        800 : #000000,
+        900 : #000000,
+        A100 : #000000,
+        A200 : #000000,
+        A400 : #000000,
+        A700 : #000000,
+    )
+);
+
+$md-accent: (
+    50 : #edf1ee,
+    100 : #d3ddd4,
+    200 : #b6c6b7,
+    300 : #98af9a,
+    400 : #829e85,
+    500 : #6c8d6f,
+    600 : #648567,
+    700 : #597a5c,
+    800 : #4f7052,
+    900 : #3d5d40,
+    A100 : #b4ffbb,
+    A200 : #81ff8d,
+    A400 : #4eff5f,
+    A700 : #35ff48,
+    contrast: (
+        50 : #000000,
+        100 : #000000,
+        200 : #000000,
+        300 : #000000,
+        400 : #000000,
+        500 : #ffffff,
+        600 : #ffffff,
+        700 : #ffffff,
+        800 : #ffffff,
+        900 : #ffffff,
+        A100 : #000000,
+        A200 : #000000,
+        A400 : #000000,
+        A700 : #000000,
+    )
+);
+
+$md-warn: (
+    50 : #fef4e0,
+    100 : #fde3b3,
+    200 : #fbd080,
+    300 : #f9bd4d,
+    400 : #f8af26,
+    500 : #f7a100,
+    600 : #f69900,
+    700 : #f58f00,
+    800 : #f38500,
+    900 : #f17400,
+    A100 : #ffffff,
+    A200 : #fff0e5,
+    A400 : #ffd2b2,
+    A700 : #ffc498,
+    contrast: (
+        50 : #000000,
+        100 : #000000,
+        200 : #000000,
+        300 : #000000,
+        400 : #000000,
+        500 : #000000,
+        600 : #000000,
+        700 : #000000,
+        800 : #000000,
+        900 : #000000,
+        A100 : #000000,
+        A200 : #000000,
+        A400 : #000000,
+        A700 : #000000,
+    )
+);
+
+$md-darkprimary: (
+    50 : #e4e8eb,
+    100 : #bcc5cd,
+    200 : #8f9eac,
+    300 : #62778b,
+    400 : #405a72,
+    500 : #1e3d59,
+    600 : #1a3751,
+    700 : #162f48,
+    800 : #12273e,
+    900 : #0a1a2e,
+    A100 : #69a4ff,
+    A200 : #3685ff,
+    A400 : #0366ff,
+    A700 : #005be9,
+    contrast: (
+        50 : #000000,
+        100 : #000000,
+        200 : #000000,
+        300 : #ffffff,
+        400 : #ffffff,
+        500 : #ffffff,
+        600 : #ffffff,
+        700 : #ffffff,
+        800 : #ffffff,
+        900 : #ffffff,
+        A100 : #000000,
+        A200 : #ffffff,
+        A400 : #ffffff,
+        A700 : #ffffff,
+    )
+);
+
+$md-gray: (
+    50 : #fefefe,
+    100 : #fcfcfc,
+    200 : #fafafa,
+    300 : #f8f8f8,
+    400 : #f7f7f7,
+    500 : #f5f5f5,
+    600 : #f4f4f4,
+    700 : #f2f2f2,
+    800 : #f0f0f0,
+    900 : #eeeeee,
+    A100 : #ffffff,
+    A200 : #ffffff,
+    A400 : #ffffff,
+    A700 : #ffffff,
+    contrast: (
+        50 : #000000,
+        100 : #000000,
+        200 : #000000,
+        300 : #000000,
+        400 : #000000,
+        500 : #000000,
+        600 : #000000,
+        700 : #000000,
+        800 : #000000,
+        900 : #000000,
+        A100 : #000000,
+        A200 : #000000,
+        A400 : #000000,
+        A700 : #000000,
+    )
+);
+
+// Convert maps into 'palettes'
+$dark-primary-palette: mat-palette($md-darkprimary);
+$light-primary-palette: mat-palette($md-lightprimary);
+$accent-palette: mat-palette($md-accent);
+$warn-palette: mat-palette($md-warn);
+
+// Create 'theme' from palettes
+$app-custom-theme: mat-dark-theme($dark-primary-palette, $accent-palette, $warn-palette);
+$app-custom-theme: mat-light-theme($light-primary-palette, $accent-palette, $warn-palette);
+
+@include angular-material-theme($app-custom-theme);

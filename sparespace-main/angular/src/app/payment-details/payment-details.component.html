@@ -1,0 +1,90 @@
+<style>
+  .container {
+    max-width: 100%;
+    margin: auto;
+  }
+  .paymentButtonSection {
+    margin-top: 2%;
+    margin-bottom: 1%;
+    margin-left: 1%;
+  }
+  .paymentDetailsInputField {
+    max-width: 40%;
+    margin-left: 1%;
+  }
+  .firstNameInputSection {
+    margin-left: 1%;
+    width: 19%;
+  }
+  .lastNameInputSection {
+    width: 20%;
+    margin-left: 1%;
+  }
+  .paymentPayButton {
+    margin-left: 23.7%;
+  }
+</style>
+
+<body>
+  <form [formGroup]="checkoutForm" (ngSubmit)="onSubmit()">
+    <div class="container">
+      <mat-card>
+        <mat-card-content>
+          <h2 class="mt-5 mb-4">Rental Space Checkout</h2>
+        </mat-card-content>
+      </mat-card>
+      <mat-card>
+        <div>
+          <mat-form-field appearance="fill" class="firstNameInputSection">
+            <mat-label>First Name </mat-label>
+            <input matInput />
+          </mat-form-field>
+          <mat-form-field appearance="fill" class="lastNameInputSection">
+            <mat-label>Last Name </mat-label>
+            <input matInput />
+          </mat-form-field>
+        </div>
+        <mat-form-field appearance="fill" class="paymentDetailsInputField">
+          <mat-label>Email </mat-label>
+          <input matInput />
+        </mat-form-field>
+        <mat-form-field appearance="fill" class="paymentDetailsInputField" style="margin-top: 2%;">
+          <mat-label>Address </mat-label>
+          <input matInput />
+        </mat-form-field>
+        <mat-form-field appearance="fill" class="paymentDetailsInputField">
+          <mat-label>Card Number</mat-label>
+          <input matInput />
+        </mat-form-field>
+        <div>
+          <mat-form-field appearance="fill" class="firstNameInputSection">
+            <mat-label>MM/YY</mat-label>
+            <input matInput />
+          </mat-form-field>
+          <mat-form-field appearance="fill" class="lastNameInputSection">
+            <mat-label>CVC</mat-label>
+            <input matInput />
+          </mat-form-field>
+        </div>
+        <div class="paymentButtonSection">
+          <button
+            mat-raised-button
+            color="primary"
+            class="paymentSubmitInformationButton"
+            type="submit"
+          >
+            Submit Information
+          </button>
+          <button
+            mat-raised-button
+            color="primary"
+            (click)="makePayment(15)"
+            class="paymentPayButton"
+          >
+            Pay
+          </button>
+        </div>
+      </mat-card>
+    </div>
+  </form>
+</body>
