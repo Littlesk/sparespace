@@ -1,0 +1,1682 @@
+[
+        {
+            "datasetid": "property",
+            "recordid": "012b27599e031494d1a8d576b6225559c9f83950",
+            "fields": {
+                "deedacres": 0.73,
+                "apasite": 0.0,
+                "landclass": "Residential < 10 Acres",
+                "shape_starea": 31773.760011394534,
+                "pin": "9786920103",
+                "apaactivity": 0.0,
+                "totalstructures": 0,
+                "streetnumber": 10710,
+                "propertydesc": "N2-81-457",
+                "shape_stlength": 747.7877028720657,
+                "landsalevalue": 0.0,
+                "apaownership": 0.0,
+                "pin10": "9786920103",
+                "owner": "#5 INLET HOOK NCR LLC &",
+                "reallink": "http://ustaxdata.com/nc/chatham/List.cfm?lastName=&firstName=&businessName=&lastName2=&firstName2=&accountNum=&streetNumber=&StreetName=&parcelNum=66526&Submit=Search",
+                "deedbook": "2050",
+                "location": "10710 GOVERNORS DR",
+                "apastructure": 0.0,
+                "realid": "66526",
+                "owneradd1": "10710 GOVERNORS DR",
+                "deedpage": "0358",
+                "landvalue": 203883.0,
+                "geo_point_2d": [
+                    35.844108119305595,
+                    -79.03714650842645
+                ],
+                "apafunction": 0.0,
+                "lclass": "R",
+                "owneradd2": "CHAPEL HILL NC 27517-8405",
+                "calcacreage": 0.73,
+                "streetname": "GOVERNORS DR",
+                "totalunits": 1,
+                "deedlink": "http://www.chathamncrod.org/DocumentView.asp?bypassstartpage=True&DocumentType=Deed&Instrument=20500358",
+                "owner2": "T TRUST",
+                "geo_shape": {
+                    "coordinates": [
+                        [
+                            [
+                                -79.03760568141182,
+                                35.84427099417219
+                            ],
+                            [
+                                -79.03675464464494,
+                                35.844300816237215
+                            ],
+                            [
+                                -79.03675375412298,
+                                35.84429000061525
+                            ],
+                            [
+                                -79.03675285442071,
+                                35.844258996235084
+                            ],
+                            [
+                                -79.03675107009971,
+                                35.844230154398076
+                            ],
+                            [
+                                -79.03674928610822,
+                                35.844202034521366
+                            ],
+                            [
+                                -79.03674838837533,
+                                35.84417535559462
+                            ],
+                            [
+                                -79.03674749129911,
+                                35.8441501196876
+                            ],
+                            [
+                                -79.0367465945509,
+                                35.844125603938274
+                            ],
+                            [
+                                -79.03674569891068,
+                                35.84410108908973
+                            ],
+                            [
+                                -79.0367448028192,
+                                35.84407801545867
+                            ],
+                            [
+                                -79.03674390640082,
+                                35.84405422166937
+                            ],
+                            [
+                                -79.03674389525523,
+                                35.84402970565229
+                            ],
+                            [
+                                -79.03674388411007,
+                                35.844005190536386
+                            ],
+                            [
+                                -79.03674387230889,
+                                35.84397923240026
+                            ],
+                            [
+                                -79.03674385952469,
+                                35.84395111198714
+                            ],
+                            [
+                                -79.03674473102812,
+                                35.84392010616811
+                            ],
+                            [
+                                -79.03751607806088,
+                                35.84392708184618
+                            ],
+                            [
+                                -79.03752052235664,
+                                35.843964574668554
+                            ],
+                            [
+                                -79.03760568141182,
+                                35.84427099417219
+                            ]
+                        ]
+                    ],
+                    "type": "Polygon"
+                },
+                "county": "Chatham",
+                "totalsalevalue": 0.0,
+                "bldgvalue": 1915343.0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.03714650842645,
+                    35.844108119305595
+                ]
+            },
+            "record_timestamp": "2023-02-01T04:00:20.398Z"
+        },
+        {
+            "datasetid": "property",
+            "recordid": "2e6bc7217e6270c89652bb4e359ab4909166f6d8",
+            "fields": {
+                "deedacres": 125.46,
+                "apasite": 0.0,
+                "landclass": "Vacant Land",
+                "shape_starea": 5017569.298517207,
+                "pin": "9771634820",
+                "apaactivity": 0.0,
+                "totalstructures": 0,
+                "streetnumber": 0,
+                "propertydesc": "N6-18",
+                "shape_stlength": 11936.698189531939,
+                "landsalevalue": 0.0,
+                "apaownership": 0.0,
+                "pin10": "9771634820",
+                "owner": "0 SEAFORTH ROAD LLC",
+                "reallink": "http://ustaxdata.com/nc/chatham/List.cfm?lastName=&firstName=&businessName=&lastName2=&firstName2=&accountNum=&streetNumber=&StreetName=&parcelNum=62077&Submit=Search",
+                "deedbook": "2271",
+                "location": "0 SEAFORTH RD",
+                "apastructure": 0.0,
+                "realid": "62077",
+                "owneradd1": "950 CLIFTON AVE",
+                "deedpage": "0057",
+                "landvalue": 1614606.0,
+                "geo_point_2d": [
+                    35.7115038237679,
+                    -79.07932782125309
+                ],
+                "apafunction": 0.0,
+                "lclass": "V",
+                "owneradd2": "CLIFTON NJ 07013-2708",
+                "calcacreage": 115.19,
+                "totalunits": 0,
+                "deedlink": "http://www.chathamncrod.org/DocumentView.asp?bypassstartpage=True&DocumentType=Deed&Instrument=22710057",
+                "geo_shape": {
+                    "coordinates": [
+                        [
+                            [
+                                -79.07548952355081,
+                                35.71453351398485
+                            ],
+                            [
+                                -79.0753902671015,
+                                35.714287688264044
+                            ],
+                            [
+                                -79.075247559374,
+                                35.71390272069671
+                            ],
+                            [
+                                -79.07517460133589,
+                                35.713410991188674
+                            ],
+                            [
+                                -79.07677487273263,
+                                35.71055884834862
+                            ],
+                            [
+                                -79.0768684312455,
+                                35.71039221997175
+                            ],
+                            [
+                                -79.07677466827963,
+                                35.71034324586078
+                            ],
+                            [
+                                -79.07583438312889,
+                                35.70985061803181
+                            ],
+                            [
+                                -79.07460575060591,
+                                35.70920745368438
+                            ],
+                            [
+                                -79.07447307074955,
+                                35.709137589984756
+                            ],
+                            [
+                                -79.0745074994152,
+                                35.709082045782786
+                            ],
+                            [
+                                -79.07455958593589,
+                                35.70899981127582
+                            ],
+                            [
+                                -79.07461344125922,
+                                35.70891829585012
+                            ],
+                            [
+                                -79.07469202992431,
+                                35.70881297010804
+                            ],
+                            [
+                                -79.07476443820076,
+                                35.70871702229679
+                            ],
+                            [
+                                -79.07484569216325,
+                                35.70862611664025
+                            ],
+                            [
+                                -79.07493224487585,
+                                35.708530160024516
+                            ],
+                            [
+                                -79.07506384523829,
+                                35.708388747707865
+                            ],
+                            [
+                                -79.07516188736015,
+                                35.70828773619449
+                            ],
+                            [
+                                -79.07529349899723,
+                                35.70815930235801
+                            ],
+                            [
+                                -79.0754215771246,
+                                35.70803447602144
+                            ],
+                            [
+                                -79.07558321767306,
+                                35.707875017211634
+                            ],
+                            [
+                                -79.0756874419014,
+                                35.707768232685915
+                            ],
+                            [
+                                -79.07570157307002,
+                                35.70775380296609
+                            ],
+                            [
+                                -79.07576163474418,
+                                35.70769319479752
+                            ],
+                            [
+                                -79.07729908727306,
+                                35.707705207705914
+                            ],
+                            [
+                                -79.07733002998758,
+                                35.70770518804998
+                            ],
+                            [
+                                -79.07812041724262,
+                                35.707711893314936
+                            ],
+                            [
+                                -79.0793546225716,
+                                35.70772119015574
+                            ],
+                            [
+                                -79.0800398008166,
+                                35.70772651022525
+                            ],
+                            [
+                                -79.08104944466217,
+                                35.707734495167635
+                            ],
+                            [
+                                -79.08145701610306,
+                                35.7077378285323
+                            ],
+                            [
+                                -79.07878195307316,
+                                35.70886086787965
+                            ],
+                            [
+                                -79.07888366812159,
+                                35.70890406658136
+                            ],
+                            [
+                                -79.08348833476553,
+                                35.710846465842884
+                            ],
+                            [
+                                -79.08488368866914,
+                                35.71272174653073
+                            ],
+                            [
+                                -79.08476128130387,
+                                35.71318909039027
+                            ],
+                            [
+                                -79.08461333246379,
+                                35.71375307612365
+                            ],
+                            [
+                                -79.0849809336684,
+                                35.714396021754
+                            ],
+                            [
+                                -79.0844708220767,
+                                35.71444685224106
+                            ],
+                            [
+                                -79.08425768933057,
+                                35.714400851091085
+                            ],
+                            [
+                                -79.08405511345975,
+                                35.71430220359237
+                            ],
+                            [
+                                -79.08365891231216,
+                                35.714210898988924
+                            ],
+                            [
+                                -79.08358369333837,
+                                35.71414821761433
+                            ],
+                            [
+                                -79.08349254810739,
+                                35.71407472986197
+                            ],
+                            [
+                                -79.08345446783572,
+                                35.71401490638423
+                            ],
+                            [
+                                -79.08342788602205,
+                                35.713960122645
+                            ],
+                            [
+                                -79.08340131723529,
+                                35.71391687633527
+                            ],
+                            [
+                                -79.0832544430037,
+                                35.71381674713111
+                            ],
+                            [
+                                -79.08320134242622,
+                                35.7137670291073
+                            ],
+                            [
+                                -79.083157098851,
+                                35.7137331689968
+                            ],
+                            [
+                                -79.083119061186,
+                                35.71371444662841
+                            ],
+                            [
+                                -79.08306952187102,
+                                35.71368852119448
+                            ],
+                            [
+                                -79.08299873727415,
+                                35.713638094057615
+                            ],
+                            [
+                                -79.08293415675253,
+                                35.71360208445951
+                            ],
+                            [
+                                -79.082878435735,
+                                35.71358337406267
+                            ],
+                            [
+                                -79.08269273835579,
+                                35.71355970528089
+                            ],
+                            [
+                                -79.08257780726447,
+                                35.71356987857335
+                            ],
+                            [
+                                -79.08249821405256,
+                                35.71355046310522
+                            ],
+                            [
+                                -79.08240095833743,
+                                35.71355269225518
+                            ],
+                            [
+                                -79.08229486492434,
+                                35.713557811664515
+                            ],
+                            [
+                                -79.08224538383985,
+                                35.71358885109416
+                            ],
+                            [
+                                -79.08215699688067,
+                                35.71361775440023
+                            ],
+                            [
+                                -79.08206509509002,
+                                35.71366829182124
+                            ],
+                            [
+                                -79.08198292021225,
+                                35.71371882262088
+                            ],
+                            [
+                                -79.0819351937483,
+                                35.71373760220501
+                            ],
+                            [
+                                -79.0818176567992,
+                                35.71379320432308
+                            ],
+                            [
+                                -79.08171517179109,
+                                35.71386970784183
+                            ],
+                            [
+                                -79.08166747974205,
+                                35.71392165745118
+                            ],
+                            [
+                                -79.08162862539388,
+                                35.713970716753224
+                            ],
+                            [
+                                -79.08157030129638,
+                                35.714001040743916
+                            ],
+                            [
+                                -79.0815110842657,
+                                35.71402271312231
+                            ],
+                            [
+                                -79.08146157647671,
+                                35.71402779389774
+                            ],
+                            [
+                                -79.08141735924715,
+                                35.71401844930868
+                            ],
+                            [
+                                -79.08139346976559,
+                                35.71400188020932
+                            ],
+                            [
+                                -79.0813704565,
+                                35.71397737942759
+                            ],
+                            [
+                                -79.08134038832192,
+                                35.713970188621744
+                            ],
+                            [
+                                -79.08131121263642,
+                                35.71397237138612
+                            ],
+                            [
+                                -79.08129353415411,
+                                35.71397743082648
+                            ],
+                            [
+                                -79.08125817032656,
+                                35.71397961771084
+                            ],
+                            [
+                                -79.08122013298495,
+                                35.71396089475051
+                            ],
+                            [
+                                -79.08116172560935,
+                                35.71390829501967
+                            ],
+                            [
+                                -79.08112900167211,
+                                35.713898942661366
+                            ],
+                            [
+                                -79.08108744863709,
+                                35.713901133621306
+                            ],
+                            [
+                                -79.08104326145408,
+                                35.713922795759196
+                            ],
+                            [
+                                -79.08077093974259,
+                                35.7139222556816
+                            ],
+                            [
+                                -79.08026601609319,
+                                35.714747502466444
+                            ],
+                            [
+                                -79.07614902062556,
+                                35.71443431563777
+                            ],
+                            [
+                                -79.07549571216435,
+                                35.714532789056506
+                            ],
+                            [
+                                -79.07548952355081,
+                                35.71453351398485
+                            ]
+                        ]
+                    ],
+                    "type": "Polygon"
+                },
+                "county": "Chatham",
+                "totalsalevalue": 0.0,
+                "bldgvalue": 0.0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.07932782125309,
+                    35.7115038237679
+                ]
+            },
+            "record_timestamp": "2023-02-01T04:00:20.398Z"
+        },
+        {
+            "datasetid": "property",
+            "recordid": "ea97284820ddab8190bf82f80434c90cdcb19986",
+            "fields": {
+                "apasite": 6200.0,
+                "shape_starea": 21633.406340137233,
+                "apaactivity": 2100.0,
+                "cary_city": "Cary",
+                "streetnumber": 1286,
+                "propertydesc": "WALNUT CREEK LD",
+                "owner": "1 PLUS 1 HAIR SALONS & SPA LLC",
+                "reallink": "http://services.wakegov.com/realestate/Account.asp?id=0091569",
+                "deedbook": "015766",
+                "wc_zoning": "GC",
+                "location": "1286 BUCK JONES RD",
+                "utilities": "ALL",
+                "phyzip": "27606",
+                "deedpage": "02018",
+                "streettype": "RD",
+                "totalbldgsqft": 2546.0,
+                "geo_point_2d": [
+                    35.76610911568085,
+                    -78.7423783316341
+                ],
+                "apaactivitydesc": "Shopping",
+                "owneradd2": "RALEIGH NC 27606-3945",
+                "streetname": "BUCK JONES",
+                "totalunits": 0,
+                "apasitedesc": "Commercial Property",
+                "wc_etj": "CA",
+                "county": "Wake",
+                "totalsalevalue": 500000.0,
+                "bldgvalue": 167050.0,
+                "deedacres": 0.5,
+                "landclass": "Commercial",
+                "pin": "077315634827",
+                "ownerwholename": "1 PLUS 1 HAIR SALONS & SPA LLC",
+                "totalstructures": 1,
+                "shape_stlength": 696.5551181171654,
+                "wc_city": "CAR",
+                "landsalevalue": 0.0,
+                "apaownership": 1020.0,
+                "pin10": "0773634827",
+                "apafunctiondesc": "Retail Sales Or Service",
+                "phycity": "RALEIGH",
+                "township": "Ca",
+                "apastructure": 2200.0,
+                "realid": "0091569",
+                "owneradd1": "1286 BUCK JONES RD",
+                "landvalue": 339768.0,
+                "apafunction": 2100.0,
+                "typedecode": "MULT TEN",
+                "lclass": "C",
+                "calcacreage": 0.49663462,
+                "billingclass": "Business",
+                "apaownershipdesc": "Corporation",
+                "typeanduse": "48",
+                "deedlink": "http://services.wakegov.com/booksweb/GenExtSearch.aspx?BookPage=015766-02018",
+                "totalsaledate": "2014-08-28",
+                "geo_shape": {
+                    "coordinates": [
+                        [
+                            [
+                                -78.74253957321339,
+                                35.76630175969888
+                            ],
+                            [
+                                -78.74195056248799,
+                                35.76615886508416
+                            ],
+                            [
+                                -78.74213436903746,
+                                35.765998364137126
+                            ],
+                            [
+                                -78.74236485398508,
+                                35.76579901427726
+                            ],
+                            [
+                                -78.74270066263779,
+                                35.7662199455793
+                            ],
+                            [
+                                -78.74282022650647,
+                                35.7663696708835
+                            ],
+                            [
+                                -78.74253957321339,
+                                35.76630175969888
+                            ]
+                        ]
+                    ],
+                    "type": "Polygon"
+                },
+                "apastructuredesc": "Store Or Shop Building"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.7423783316341,
+                    35.76610911568085
+                ]
+            },
+            "record_timestamp": "2023-02-01T04:00:20.398Z"
+        },
+        {
+            "datasetid": "property",
+            "recordid": "3510779018adb059666a7685c3b6287b436411e9",
+            "fields": {
+                "apasite": 6200.0,
+                "shape_starea": 47133.901316755335,
+                "apaactivity": 2210.0,
+                "streetnumber": 1171,
+                "propertydesc": "LO5 RCMB NICHOLS PLAZA BM2016 -01453",
+                "owner": "1ST & GOAL NICHOLS PLAZA PROPERTIES",
+                "reallink": "http://services.wakegov.com/realestate/Account.asp?id=0439815",
+                "deedbook": "016956",
+                "wc_zoning": "PC-CZ",
+                "location": "1171 PINE PLAZA DR",
+                "utilities": "ALL",
+                "phyzip": "27523",
+                "deedpage": "01463",
+                "streettype": "DR",
+                "totalbldgsqft": 3913.0,
+                "geo_point_2d": [
+                    35.74738866215493,
+                    -78.83219344498693
+                ],
+                "apaactivitydesc": "Restaurant-Type With Drive-Through",
+                "owneradd2": "CARY NC 27518-8549",
+                "streetname": "PINE PLAZA",
+                "totalunits": 0,
+                "apasitedesc": "Commercial Property",
+                "wc_etj": "AP",
+                "county": "Wake",
+                "totalsalevalue": 0.0,
+                "bldgvalue": 1482918.0,
+                "deedacres": 1.08,
+                "landclass": "Commercial",
+                "pin": "074212967998",
+                "ownerwholename": "1ST & GOAL NICHOLS PLAZA PROPERTIES",
+                "totalstructures": 1,
+                "shape_stlength": 873.4535967987063,
+                "lotnum": "5",
+                "landsaledate": "2017-11-01",
+                "wc_city": "APE",
+                "landsalevalue": 1200000.0,
+                "apaownership": 1020.0,
+                "pin10": "0742967998",
+                "apafunctiondesc": "Cafeteria Or Limited Service Restaurant",
+                "phycity": "APEX",
+                "township": "Wh",
+                "apastructure": 2220.0,
+                "realid": "0439815",
+                "owneradd1": "2500 REGENCY PKWY STE C8",
+                "landvalue": 846810.0,
+                "apafunction": 2520.0,
+                "typedecode": "FASTFOOD",
+                "lclass": "C",
+                "calcacreage": 1.08204568,
+                "billingclass": "Business",
+                "apaownershipdesc": "Corporation",
+                "typeanduse": "40",
+                "deedlink": "http://services.wakegov.com/booksweb/GenExtSearch.aspx?BookPage=016956-01463",
+                "geo_shape": {
+                    "coordinates": [
+                        [
+                            [
+                                -78.83222514318139,
+                                35.74779227399434
+                            ],
+                            [
+                                -78.83184796482647,
+                                35.74766891177588
+                            ],
+                            [
+                                -78.83177917081119,
+                                35.74762343807653
+                            ],
+                            [
+                                -78.83177112231682,
+                                35.747578335803205
+                            ],
+                            [
+                                -78.83208114518501,
+                                35.746960524657965
+                            ],
+                            [
+                                -78.83263976127436,
+                                35.747146809563816
+                            ],
+                            [
+                                -78.83230413384895,
+                                35.74781552146446
+                            ],
+                            [
+                                -78.83227718901796,
+                                35.747809296558486
+                            ],
+                            [
+                                -78.83222514318139,
+                                35.74779227399434
+                            ]
+                        ]
+                    ],
+                    "type": "Polygon"
+                },
+                "apastructuredesc": "Restaurant Building"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.83219344498693,
+                    35.74738866215493
+                ]
+            },
+            "record_timestamp": "2023-02-01T04:00:20.398Z"
+        },
+        {
+            "datasetid": "property",
+            "recordid": "36b7d92994ed853d018fb8e40322b2e5ffb4874f",
+            "fields": {
+                "geo_point_2d": [
+                    35.978798697903564,
+                    -78.89034427468565
+                ],
+                "landclass": "VAC RES/ LOT-SML TRACT",
+                "shape_starea": 3783.288462409676,
+                "pin": "083121414955",
+                "streetnumber": 805,
+                "propertydesc": "PINE GROVE PRK DEV",
+                "shape_stlength": 348.4621686310422,
+                "calcacreage": 0.087,
+                "pin10": "0831414955",
+                "owner": "1ST ATLANTIC SURETY COMPANY",
+                "reallink": "https://property.spatialest.com/nc/durham/#/property/117966",
+                "deedlink": "http://rodweb.co.durham.nc.us/RealEstate/SearchDetail.aspx?bk=8503&pg=519&type=BkPg",
+                "geo_shape": {
+                    "coordinates": [
+                        [
+                            [
+                                -78.89007031145783,
+                                35.97879292483057
+                            ],
+                            [
+                                -78.89015988897285,
+                                35.97878303275949
+                            ],
+                            [
+                                -78.89019791833483,
+                                35.97877878226921
+                            ],
+                            [
+                                -78.8905329722351,
+                                35.97874166728946
+                            ],
+                            [
+                                -78.89056636874552,
+                                35.97873826334039
+                            ],
+                            [
+                                -78.89057892437701,
+                                35.978825660004425
+                            ],
+                            [
+                                -78.89031224671814,
+                                35.97883558453067
+                            ],
+                            [
+                                -78.89015980972997,
+                                35.97884124456697
+                            ],
+                            [
+                                -78.89007402693392,
+                                35.97884440839235
+                            ],
+                            [
+                                -78.89007031145783,
+                                35.97879292483057
+                            ]
+                        ]
+                    ],
+                    "type": "Polygon"
+                },
+                "county": "Durham",
+                "deedbook": "008503",
+                "location": "805 RIDGEWAY AVE",
+                "realid": "117966",
+                "owneradd1": "333 FAYETTEVILLE ST STE 1500",
+                "owneradd2": "CHAPEL HILL NC 27517-8405",
+                "deedpage": "000519",
+                "landvalue": 21740.0,
+                "bldgvalue": 0.0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.89034427468565,
+                    35.978798697903564
+                ]
+            },
+            "record_timestamp": "2023-02-01T04:00:20.398Z"
+        },
+        {
+            "datasetid": "property",
+            "recordid": "8c1f2ac6f7acaac6c8e782191fcad8749438ecb9",
+            "fields": {
+                "apasite": 1000.0,
+                "shape_starea": 12657.584981862732,
+                "apaactivity": 9000.0,
+                "streetnumber": 2841,
+                "propertydesc": "LO2 NC PROPERTY NETWORK INC BM2021 -00150",
+                "owner": "2 SISTERS LLC",
+                "reallink": "http://services.wakegov.com/realestate/Account.asp?id=0355017",
+                "deedbook": "019127",
+                "wc_zoning": "R-6",
+                "location": "2841 MARY MARVIN TRL",
+                "utilities": "WSE",
+                "phyzip": "27526",
+                "deedpage": "00575",
+                "streettype": "TRL",
+                "geo_point_2d": [
+                    35.54012038400691,
+                    -78.74626507535817
+                ],
+                "apaactivitydesc": "No Human Or Unclassifiable",
+                "owneradd2": "FUQUAY VARINA NC 27526-9646",
+                "streetname": "MARY MARVIN",
+                "totalunits": 0,
+                "apasitedesc": "Site In Natural State",
+                "wc_etj": "AN",
+                "county": "Wake",
+                "totalsalevalue": 0.0,
+                "bldgvalue": 0.0,
+                "deedacres": 0.29,
+                "landclass": "Vacant Land",
+                "pin": "067504514589",
+                "ownerwholename": "2 SISTERS LLC",
+                "totalstructures": 1,
+                "shape_stlength": 544.3250500098762,
+                "lotnum": "2",
+                "wc_city": "ANG",
+                "landsalevalue": 0.0,
+                "apaownership": 1020.0,
+                "pin10": "0675514589",
+                "apafunctiondesc": "Unclassifiable function",
+                "phycity": "FUQUAY VARINA",
+                "township": "Mi",
+                "apastructure": 9000.0,
+                "realid": "0355017",
+                "owneradd1": "2841 MARY MARVIN TRL",
+                "landvalue": 50600.0,
+                "apafunction": 9900.0,
+                "lclass": "V",
+                "calcacreage": 0.29057851,
+                "billingclass": "Business",
+                "apaownershipdesc": "Corporation",
+                "deedlink": "http://services.wakegov.com/booksweb/GenExtSearch.aspx?BookPage=019127-00575",
+                "geo_shape": {
+                    "coordinates": [
+                        [
+                            [
+                                -78.74600499634967,
+                                35.540333472259874
+                            ],
+                            [
+                                -78.7463655225822,
+                                35.53980744108488
+                            ],
+                            [
+                                -78.74651338849063,
+                                35.53992896322013
+                            ],
+                            [
+                                -78.74618074334774,
+                                35.54041435174826
+                            ],
+                            [
+                                -78.74600499634967,
+                                35.540333472259874
+                            ]
+                        ]
+                    ],
+                    "type": "Polygon"
+                },
+                "apastructuredesc": "No structure"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.74626507535817,
+                    35.54012038400691
+                ]
+            },
+            "record_timestamp": "2023-02-01T04:00:20.398Z"
+        },
+        {
+            "datasetid": "property",
+            "recordid": "f4e8b4fca7538743c7def179cb5453282972e555",
+            "fields": {
+                "geo_point_2d": [
+                    35.915347421984826,
+                    -78.91797655247143
+                ],
+                "landclass": "RES/ 1-FAMILY",
+                "shape_starea": 26738.94482718914,
+                "pin": "072848208980",
+                "streetnumber": 6004,
+                "propertydesc": "PROP-HERNDON ERVIN H",
+                "shape_stlength": 706.1091314176468,
+                "calcacreage": 0.614,
+                "pin10": "0728208980",
+                "owner": "2B HOME LLC",
+                "reallink": "https://property.spatialest.com/nc/durham/#/property/148101",
+                "deedlink": "http://rodweb.co.durham.nc.us/RealEstate/SearchDetail.aspx?bk=4202&pg=296&type=BkPg",
+                "geo_shape": {
+                    "coordinates": [
+                        [
+                            [
+                                -78.91753832514588,
+                                35.91544112204706
+                            ],
+                            [
+                                -78.91753873327544,
+                                35.91543856713309
+                            ],
+                            [
+                                -78.91753958036081,
+                                35.9154358205385
+                            ],
+                            [
+                                -78.91754002175735,
+                                35.915433238608024
+                            ],
+                            [
+                                -78.91754086884258,
+                                35.915430492013435
+                            ],
+                            [
+                                -78.91754127699966,
+                                35.91542791006043
+                            ],
+                            [
+                                -78.91754215732416,
+                                35.91542516348837
+                            ],
+                            [
+                                -78.91754256548117,
+                                35.915422581535346
+                            ],
+                            [
+                                -78.91754341256622,
+                                35.91541983494074
+                            ],
+                            [
+                                -78.91754382069557,
+                                35.91541728002676
+                            ],
+                            [
+                                -78.91754466778053,
+                                35.91541453343211
+                            ],
+                            [
+                                -78.9175450749978,
+                                35.91541178654028
+                            ],
+                            [
+                                -78.917545517502,
+                                35.915409204610505
+                            ],
+                            [
+                                -78.91754636458678,
+                                35.91540645801585
+                            ],
+                            [
+                                -78.91754680601147,
+                                35.915403848145
+                            ],
+                            [
+                                -78.91754765306769,
+                                35.91540112949067
+                            ],
+                            [
+                                -78.91754809446371,
+                                35.91539854756008
+                            ],
+                            [
+                                -78.91754850278882,
+                                35.91539580066895
+                            ],
+                            [
+                                -78.91754934987341,
+                                35.91539305407431
+                            ],
+                            [
+                                -78.91754975800238,
+                                35.91539049916032
+                            ],
+                            [
+                                -78.91755019956673,
+                                35.91538775229163
+                            ],
+                            [
+                                -78.91755104648274,
+                                35.91538517063499
+                            ],
+                            [
+                                -78.91755145480768,
+                                35.91538242374388
+                            ],
+                            [
+                                -78.91755189637193,
+                                35.915379676875204
+                            ],
+                            [
+                                -78.9175527432878,
+                                35.91537709521853
+                            ],
+                            [
+                                -78.91755315161262,
+                                35.915374348327425
+                            ],
+                            [
+                                -78.91755359300838,
+                                35.915371766396824
+                            ],
+                            [
+                                -78.9175539669858,
+                                35.91536901948243
+                            ],
+                            [
+                                -78.91755484838963,
+                                35.91536629994994
+                            ],
+                            [
+                                -78.9175552897853,
+                                35.915363718019314
+                            ],
+                            [
+                                -78.91755569810992,
+                                35.915360971128116
+                            ],
+                            [
+                                -78.9175561396739,
+                                35.91535822425947
+                            ],
+                            [
+                                -78.91755698658947,
+                                35.915355642602755
+                            ],
+                            [
+                                -78.917557394914,
+                                35.91535289571155
+                            ],
+                            [
+                                -78.91755783630951,
+                                35.9153503137809
+                            ],
+                            [
+                                -78.91755824463404,
+                                35.91534756688972
+                            ],
+                            [
+                                -78.91755868619781,
+                                35.91534482002098
+                            ],
+                            [
+                                -78.91755953311315,
+                                35.9153422383643
+                            ],
+                            [
+                                -78.9175599414661,
+                                35.915339463532725
+                            ],
+                            [
+                                -78.91756038300126,
+                                35.915336744604325
+                            ],
+                            [
+                                -78.91756079112965,
+                                35.91533418969022
+                            ],
+                            [
+                                -78.91756123269332,
+                                35.91533144282142
+                            ],
+                            [
+                                -78.91756164101758,
+                                35.91532869593024
+                            ],
+                            [
+                                -78.9175620824128,
+                                35.91532611399954
+                            ],
+                            [
+                                -78.91756292949621,
+                                35.915323367404724
+                            ],
+                            [
+                                -78.91756333782038,
+                                35.9153206205135
+                            ],
+                            [
+                                -78.91756377921551,
+                                35.915318038582754
+                            ],
+                            [
+                                -78.91756418753965,
+                                35.915315291691535
+                            ],
+                            [
+                                -78.91756462910311,
+                                35.9153125448228
+                            ],
+                            [
+                                -78.9175650372588,
+                                35.91530996286959
+                            ],
+                            [
+                                -78.91756547882221,
+                                35.91530721600078
+                            ],
+                            [
+                                -78.91756588714718,
+                                35.91530446820824
+                            ],
+                            [
+                                -78.91756632851356,
+                                35.91530191421782
+                            ],
+                            [
+                                -78.91756673683756,
+                                35.91529916732655
+                            ],
+                            [
+                                -78.91756717840082,
+                                35.91529642045776
+                            ],
+                            [
+                                -78.91756758655639,
+                                35.91529383850454
+                            ],
+                            [
+                                -78.91756802814808,
+                                35.91529106369541
+                            ],
+                            [
+                                -78.91756843644345,
+                                35.915288344744425
+                            ],
+                            [
+                                -78.91756887783825,
+                                35.915285762813674
+                            ],
+                            [
+                                -78.91756928616202,
+                                35.91528301592236
+                            ],
+                            [
+                                -78.91756972772511,
+                                35.91528026905356
+                            ],
+                            [
+                                -78.91757013604887,
+                                35.915277522162285
+                            ],
+                            [
+                                -78.91757057744448,
+                                35.915274939330224
+                            ],
+                            [
+                                -78.91757098576815,
+                                35.9152721924389
+                            ],
+                            [
+                                -78.91757142733114,
+                                35.915269445570026
+                            ],
+                            [
+                                -78.91757183545792,
+                                35.91526689155712
+                            ],
+                            [
+                                -78.91757227702085,
+                                35.91526414468827
+                            ],
+                            [
+                                -78.91757227982492,
+                                35.91526139752306
+                            ],
+                            [
+                                -78.91757268814845,
+                                35.91525865063172
+                            ],
+                            [
+                                -78.91757312954296,
+                                35.915256068700906
+                            ],
+                            [
+                                -78.9175735378665,
+                                35.915253321809594
+                            ],
+                            [
+                                -78.91757397942924,
+                                35.915250574940714
+                            ],
+                            [
+                                -78.91757438758528,
+                                35.91524799208614
+                            ],
+                            [
+                                -78.91757482914801,
+                                35.91524524521726
+                            ],
+                            [
+                                -78.91757483195201,
+                                35.915242498052024
+                            ],
+                            [
+                                -78.91757524027541,
+                                35.91523975116065
+                            ],
+                            [
+                                -78.91757568166969,
+                                35.91523716922983
+                            ],
+                            [
+                                -78.91757608999303,
+                                35.91523442233843
+                            ],
+                            [
+                                -78.91757653155562,
+                                35.915231675469585
+                            ],
+                            [
+                                -78.91757653435957,
+                                35.91522892830431
+                            ],
+                            [
+                                -78.91757694248594,
+                                35.91522637429132
+                            ],
+                            [
+                                -78.91757738404847,
+                                35.915223627422385
+                            ],
+                            [
+                                -78.91757779237169,
+                                35.915220880531045
+                            ],
+                            [
+                                -78.91757779517557,
+                                35.91521813336578
+                            ],
+                            [
+                                -78.91757826980898,
+                                35.91521555145739
+                            ],
+                            [
+                                -78.9175786448928,
+                                35.91521280454354
+                            ],
+                            [
+                                -78.9175790864552,
+                                35.91521005767457
+                            ],
+                            [
+                                -78.91757908925905,
+                                35.91520731050935
+                            ],
+                            [
+                                -78.91757949741472,
+                                35.915204727654675
+                            ],
+                            [
+                                -78.91757993897703,
+                                35.915201980785746
+                            ],
+                            [
+                                -78.91757994178086,
+                                35.91519923362044
+                            ],
+                            [
+                                -78.91758035010382,
+                                35.91519648672902
+                            ],
+                            [
+                                -78.91758079149774,
+                                35.915193904798144
+                            ],
+                            [
+                                -78.91758079430153,
+                                35.91519115763282
+                            ],
+                            [
+                                -78.91758120262446,
+                                35.91518841074139
+                            ],
+                            [
+                                -78.9175816441866,
+                                35.915185663872485
+                            ],
+                            [
+                                -78.91758164679352,
+                                35.915183109585534
+                            ],
+                            [
+                                -78.91758205511637,
+                                35.91518036269411
+                            ],
+                            [
+                                -78.91758249667848,
+                                35.9151776158251
+                            ],
+                            [
+                                -78.91758249948224,
+                                35.91517486865983
+                            ],
+                            [
+                                -78.9175829076091,
+                                35.91517231374549
+                            ],
+                            [
+                                -78.91758291044133,
+                                35.91516953863983
+                            ],
+                            [
+                                -78.918329219736,
+                                35.91520264946926
+                            ],
+                            [
+                                -78.91838711707749,
+                                35.91555674376754
+                            ],
+                            [
+                                -78.91753832514588,
+                                35.91544112204706
+                            ]
+                        ]
+                    ],
+                    "type": "Polygon"
+                },
+                "county": "Durham",
+                "deedbook": "004202",
+                "location": "6004 BARBEE RD",
+                "realid": "148101",
+                "owneradd1": "6004 BARBEE RD",
+                "owneradd2": "CHAPEL HILL NC 27517-8405",
+                "deedpage": "000296",
+                "landvalue": 60375.0,
+                "bldgvalue": 118727.0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.91797655247143,
+                    35.915347421984826
+                ]
+            },
+            "record_timestamp": "2023-02-01T04:00:20.398Z"
+        },
+        {
+            "datasetid": "property",
+            "recordid": "4a3970510836e75ed7d19684a786be2e3072e8f8",
+            "fields": {
+                "geo_point_2d": [
+                    35.97922864990608,
+                    -78.90320547591736
+                ],
+                "landclass": "RES/ 1-FAMILY",
+                "shape_starea": 11409.745982014474,
+                "pin": "082181633498",
+                "streetnumber": 1500,
+                "propertydesc": "N/A - NO SUBDIVISION",
+                "shape_stlength": 465.7061636310399,
+                "calcacreage": 0.262,
+                "pin10": "0821633498",
+                "owner": "2B HOME LLC",
+                "reallink": "https://property.spatialest.com/nc/durham/#/property/117150",
+                "deedlink": "http://rodweb.co.durham.nc.us/RealEstate/SearchDetail.aspx?bk=4202&pg=296&type=BkPg",
+                "geo_shape": {
+                    "coordinates": [
+                        [
+                            [
+                                -78.9029197056044,
+                                35.97914130664038
+                            ],
+                            [
+                                -78.90352638330081,
+                                35.97910798215184
+                            ],
+                            [
+                                -78.90327559909761,
+                                35.97940688883009
+                            ],
+                            [
+                                -78.90304847730854,
+                                35.9793154000971
+                            ],
+                            [
+                                -78.90301794616043,
+                                35.9793023785016
+                            ],
+                            [
+                                -78.90299034028217,
+                                35.97928558826719
+                            ],
+                            [
+                                -78.90296635885521,
+                                35.979265452651475
+                            ],
+                            [
+                                -78.90294660670014,
+                                35.979242483162885
+                            ],
+                            [
+                                -78.90293158321396,
+                                35.97921725792054
+                            ],
+                            [
+                                -78.9029216701784,
+                                35.97919041713841
+                            ],
+                            [
+                                -78.9029197056044,
+                                35.97914130664038
+                            ]
+                        ]
+                    ],
+                    "type": "Polygon"
+                },
+                "county": "Durham",
+                "deedbook": "004202",
+                "location": "1500 CONCORD ST",
+                "realid": "117150",
+                "owneradd1": "6004 BARBEE RD",
+                "owneradd2": "CHAPEL HILL NC 27517-8405",
+                "deedpage": "000296",
+                "landvalue": 62700.0,
+                "bldgvalue": 38204.0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.90320547591736,
+                    35.97922864990608
+                ]
+            },
+            "record_timestamp": "2023-02-01T04:00:20.398Z"
+        },
+        {
+            "datasetid": "property",
+            "recordid": "8d0c69f0aeba59e62b289184e67a49e952e66193",
+            "fields": {
+                "geo_point_2d": [
+                    35.967194791096155,
+                    -78.85454023737925
+                ],
+                "landclass": "RES/ 1-FAMILY",
+                "shape_starea": 8748.247143637382,
+                "pin": "084036094855",
+                "streetnumber": 717,
+                "propertydesc": "AREYS SPRING PRK",
+                "shape_stlength": 449.96846820904364,
+                "calcacreage": 0.201,
+                "pin10": "0840094855",
+                "owner": "2B HOME LLC",
+                "reallink": "https://property.spatialest.com/nc/durham/#/property/158384",
+                "deedlink": "http://rodweb.co.durham.nc.us/RealEstate/SearchDetail.aspx?bk=4202&pg=296&type=BkPg",
+                "geo_shape": {
+                    "coordinates": [
+                        [
+                            [
+                                -78.85460643113322,
+                                35.967437908064234
+                            ],
+                            [
+                                -78.85452195402672,
+                                35.96743489630636
+                            ],
+                            [
+                                -78.85443788305741,
+                                35.967431691197945
+                            ],
+                            [
+                                -78.85447382520294,
+                                35.96695186760297
+                            ],
+                            [
+                                -78.85455830180202,
+                                35.96695487939466
+                            ],
+                            [
+                                -78.85464277810868,
+                                35.966958056963975
+                            ],
+                            [
+                                -78.85460643113322,
+                                35.967437908064234
+                            ]
+                        ]
+                    ],
+                    "type": "Polygon"
+                },
+                "county": "Durham",
+                "deedbook": "004202",
+                "location": "717 CARTER AVE",
+                "realid": "158384",
+                "owneradd1": "6004 BARBEE RD",
+                "owneradd2": "CHAPEL HILL NC 27517-8405",
+                "deedpage": "000296",
+                "landvalue": 18015.0,
+                "bldgvalue": 58371.0
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.85454023737925,
+                    35.967194791096155
+                ]
+            },
+            "record_timestamp": "2023-02-01T04:00:20.398Z"
+        },
+        {
+            "datasetid": "property",
+            "recordid": "b890bb418eb5dadf3f09dd22782bdc4cd533de5d",
+            "fields": {
+                "apasite": 6100.0,
+                "shape_starea": 42386.555105661195,
+                "apaactivity": 1100.0,
+                "streetnumber": 5324,
+                "propertydesc": "TR1 BNDY 2MM LLC/WYATT VAN COLEY II ET AL BM2021 -00709",
+                "owner": "2MM LLC",
+                "reallink": "http://services.wakegov.com/realestate/Account.asp?id=0059612",
+                "deedbook": "016512",
+                "wc_zoning": "R-30",
+                "location": "5324 CASS HOLT RD",
+                "utilities": "E",
+                "phyzip": "27540",
+                "deedpage": "00426",
+                "streettype": "RD",
+                "totalbldgsqft": 1248.0,
+                "geo_point_2d": [
+                    35.630420667776455,
+                    -78.85246524797385
+                ],
+                "apaactivitydesc": "Household Activities",
+                "owneradd2": "CARY NC 27519-7327",
+                "streetname": "CASS HOLT",
+                "totalunits": 1,
+                "apasitedesc": "Residential Lots",
+                "wc_etj": "HS",
+                "county": "Wake",
+                "totalsalevalue": 117100.0,
+                "bldgvalue": 30914.0,
+                "deedacres": 0.97,
+                "landclass": "Residential < 10 Acres",
+                "pin": "064803348451",
+                "ownerwholename": "2MM LLC",
+                "totalstructures": 1,
+                "shape_stlength": 820.1823624794032,
+                "landsalevalue": 0.0,
+                "apaownership": 1010.0,
+                "pin10": "0648348451",
+                "apafunctiondesc": "Private Household",
+                "phycity": "HOLLY SPRINGS",
+                "township": "Ho",
+                "apastructure": 1110.0,
+                "realid": "0059612",
+                "owneradd1": "109 OXYARD WAY",
+                "landvalue": 90000.0,
+                "apafunction": 1100.0,
+                "typedecode": "SINGLFAM",
+                "lclass": "R",
+                "calcacreage": 0.97306109,
+                "billingclass": "Individual",
+                "apaownershipdesc": "Individual Ownership",
+                "typeanduse": "01",
+                "deedlink": "http://services.wakegov.com/booksweb/GenExtSearch.aspx?BookPage=016512-00426",
+                "totalsaledate": "2016-08-30",
+                "geo_shape": {
+                    "coordinates": [
+                        [
+                            [
+                                -78.85212072059093,
+                                35.630374663498245
+                            ],
+                            [
+                                -78.85215677592066,
+                                35.63010148920254
+                            ],
+                            [
+                                -78.85282351488084,
+                                35.630164360259414
+                            ],
+                            [
+                                -78.85278238689583,
+                                35.630741721029814
+                            ],
+                            [
+                                -78.85274769056947,
+                                35.630738265469944
+                            ],
+                            [
+                                -78.85211178293208,
+                                35.630675436022116
+                            ],
+                            [
+                                -78.85212072059093,
+                                35.630374663498245
+                            ]
+                        ]
+                    ],
+                    "type": "Polygon"
+                },
+                "apastructuredesc": "Detached Units"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.85246524797385,
+                    35.630420667776455
+                ]
+            },
+            "record_timestamp": "2023-02-01T04:00:20.398Z"
+        }
+    ]
